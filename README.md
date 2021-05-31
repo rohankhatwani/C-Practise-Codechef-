@@ -1,1 +1,1 @@
-# Practice from certain competitive coding websites 
+# Practice from Competitive Coding websites 

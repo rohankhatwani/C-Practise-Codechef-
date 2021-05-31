@@ -1,1 +1,1 @@
-# C-Practise-Codechef-
+# Practice from certain competitive coding websites 
